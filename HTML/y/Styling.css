@@ -21,11 +21,12 @@ img {
   a {
     color: darkgreen;
     font-weight: bold;
-    
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
   h2 {
     color: darkgreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
  
   .links2:hover{
@@ -39,6 +40,7 @@ img {
     font-style: italic;
     color: darkgreen;
     width: 60%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
   .contact {
@@ -50,6 +52,7 @@ img {
     font-style: italic;
     color: darkgreen;
     width: 70%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
   i {
@@ -71,11 +74,12 @@ img {
 
   li {
     display: block;
-    margin-bottom: 10px; /* Adjust the margin as needed */
+    margin-bottom: 2px; /* Adjust the margin as needed */
   }
   
   em {
     font-weight: bolder;
+    font-family:Georgia, 'Times New Roman', Times, serif;
   }
 
   div {
