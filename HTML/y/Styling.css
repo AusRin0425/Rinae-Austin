@@ -3,6 +3,7 @@ img {
     border-radius: 30%;
     float: left;
     margin: 5%;
+    border: 2px solid darkgreen;
   }
 
   body {
@@ -94,6 +95,7 @@ img {
     margin: 2%;
     overflow: auto;
     text-overflow: ellipsis;
+    border: 2px solid darkgreen;
   }
 
   .contents:hover{
@@ -117,6 +119,7 @@ img {
     color:whitesmoke;
     z-index: 3;
     height: 20%;
+    
   }
 
 
@@ -149,6 +152,7 @@ img {
     border: 1px solid #ccc;
     background-color: #f0f0f0;
     transition: background-color 0.3s, color 0.3s;
+    border: 2px solid darkgreen;
   }
 
   .buttonn:hover{
